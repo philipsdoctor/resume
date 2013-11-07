@@ -5,7 +5,6 @@
 * <https://www.linkedin.com/in/philipsdoctor>
 
 # Education
------------
 
 * **MS Software Enginnering**
     - DePaul University, Chicago IL
@@ -21,7 +20,6 @@
     - Functional Programming Principles in Scala (expected November 2013)
 
 # Skills
---------
 
 * **Languages**
     - _Proven record of quickly learning new languages_
@@ -32,7 +30,7 @@
     - *Recent* ElasticSearch, Redis, Storm, RabbitMQ
 
 # Experience
-------------
+
 ###Senior Software Engineer - OpinionLab
 _July 2013-Present_
 
@@ -43,7 +41,7 @@ _July 2013-Present_
 ###Senior Developer - Morningstar Inc.
 _May 2012-July 2013_
 
-- Designed and implemented a framework for data distribution to our clients. Our system was rapidly expanding to cover more data and the level of developer effort to meet the growth was higher than we could support. The new system allowed for new data to be added via a few changes in configuration, and has been maintained with trivial effort by multiple team members going forward. 
+- Designed and implemented a framework for data distribution to our clients. Our system was rapidly expanding to cover more data and the level of developer effort to meet the growth was higher than we could support. The new system allowed for new data to be added via a few changes in configuration, and has been maintained with trivial effort by multiple team members going forward.
 
 - Rearchitected data systems to meet business needs. Our data systems could no longer meet our new business needs. I gathered requirements from our business team, created a new architecture for portions of our system, created roadmaps, timelines, estimates, and am currently delivering on these system changes. New system has improved delivery customization, improved monitoring, geographic redundancy, fault tolerance, improved performance, and more.
 
@@ -62,8 +60,7 @@ _July 2010 – May 2012_
 
 - Created reusable customer facing web service APIs to help platformize our product as part of a team. Exposed web services currently enable customers to write their own applications to manage hundreds of thousands of devices through our APIs. APIs are high performance, highly available (99.999%) methods that range from device diagnostic and information to device commissioning. Designed APIs, implemented business logic, validation, calls to internal services, automated unit & integration testing and builds.
 
-- Created SQL Replication Tool. Provided a one click build-up and tear-down for MS SQL Server peer-to-
-peer replication. Designed to speed up nPhase production deployments and configurable for use in multiple environments. Utilized SMO & RMO.
+- Created SQL Replication Tool. Provided a one click build-up and tear-down for MS SQL Server peer-to-peer replication. Designed to speed up nPhase production deployments and configurable for use in multiple environments. Utilized SMO & RMO.
 
 - Contributed to Portal website. This ASP.NET website allowed for device maintenance and monitoring. Created pages with extensive server side validation such as customer IP pool setup. Help globalize the site by adding resource pages for multiple language translations. Created pages with ASP controls, javascript, c# server code, MS SQL Server stored procedures.
 
@@ -85,9 +82,9 @@ _April 2012 – June 2012_
 ###Senior Associate Economist Federal Reserve Bank of Chicago
 _May 2004 – July 2010_
 
-- Developed custom software for over 15 research projects. Projects ranged from full sample restricted census data to county specific employment micro data. Programs focused on data acquisition/parsing, cleaning, formatting, running extensive economic models, presenting regressions and graphs. As the programmer, I was responsible for understanding the economics and math in order to implement the model in my code. My programs were loosely coupled so that economic model code could be applied to other data sets. Speed was a premium due to the size of the datasets; I was often able to optimize existing models to reduce runtimes from weeks to hours. 
+- Developed custom software for over 15 research projects. Projects ranged from full sample restricted census data to county specific employment micro data. Programs focused on data acquisition/parsing, cleaning, formatting, running extensive economic models, presenting regressions and graphs. As the programmer, I was responsible for understanding the economics and math in order to implement the model in my code. My programs were loosely coupled so that economic model code could be applied to other data sets. Speed was a premium due to the size of the datasets; I was often able to optimize existing models to reduce runtimes from weeks to hours.
 
-- Devised and implemented dynamic programming methods to solve economic problems. 
+- Devised and implemented dynamic programming methods to solve economic problems.
 
 - Learned new languages for specific projects including learning Fortran to parallelize a decades old model using open MP. Learned R to use a specific maximum likelihood project. Learned SAS to access old data on tapes that was desired for a new study.
 
@@ -95,7 +92,7 @@ _May 2004 – July 2010_
 
 - Mentored fellow coworkers in programming fundamentals and statistical languages.
 
-- Improved performance and maintainability for a large, long running Federal Open Market Committee project by introducing configuration files, decoupled models, and teaching others how to update and maintain the model. 
+- Improved performance and maintainability for a large, long running Federal Open Market Committee project by introducing configuration files, decoupled models, and teaching others how to update and maintain the model.
 
 - Co-Authored 3 published papers
 
