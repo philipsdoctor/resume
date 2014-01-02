@@ -4,21 +4,6 @@
 * <https://github.com/philipsdoctor>
 * <https://www.linkedin.com/in/philipsdoctor>
 
-# Education
-
-* **MS Software Enginnering**
-    - DePaul University, Chicago IL
-    - GPA 3.96/4.00
-    - Concentration in Software Architecture
-    - July 2010
-
-* **BA Economics**
-    - University of Chicago, Chicago IL
-    - 2003
-
-* **Coursera Credit**
-    - Functional Programming Principles in Scala (expected November 2013)
-
 # Skills
 
 * **Languages**
@@ -96,3 +81,31 @@ _May 2004 – July 2010_
 
 - Co-Authored 3 published papers
 
+# Education
+
+* **MS Software Enginnering**
+    - DePaul University, Chicago IL
+    - GPA 3.96/4.00
+    - Concentration in Software Architecture
+    - July 2010
+
+* **BA Economics**
+    - University of Chicago, Chicago IL
+    - 2003
+
+* **Coursera Credit**
+    - Functional Programming Principles in Scala 
+    
+# Recent Talks
+* **Storm (with python (and a side of clojure))** 
+  
+  https://www.youtube.com/watch?v=ja-iZG610o8
+  
+* **Monoids in Python**
+  
+  https://www.youtube.com/watch?v=50qhv8C3s9I
+  
+* **Ultimate Language Shootout IV: C# is slightly better than you might imagine**
+  
+  https://www.youtube.com/watch?v=fByR4ghTOS8 
+ 
